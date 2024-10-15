@@ -14,7 +14,7 @@ REPO_NAME=$(basename "$REPO_URL" .git) # Extract repo name from URL
 UNIQUE_ID="$3"
 REGION="$4" 
 BASE_BUCKET="hazmat-data-files-${UNIQUE_ID}"
-DATA_FILES_DIR="data-files"
+DATA_FILES_DIR="hpro-data/data-files"
 
 # 1. Clone the GitHub Repository
 git clone "$REPO_URL"
