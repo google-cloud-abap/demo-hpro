@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_HAZMAT_CONSTANTS</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Hazmat: Application Constants</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>C_APP_BUCKET_NAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Default GCS Bucket</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_CLIENT_KEY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>HPRO: Google Cloud Key Name</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HPRO_PICTOGRAM_SK</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>HPRO: Vector Index for Pictograms</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HPRO_PROD_SK</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>HPRO: Vector Index for Products</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HPRO_SDS_SK</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>HPRO: Vector Index for SDS documents</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HPRO_WSG_SK</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>HPRO: Vector Index for Warehouse safety guide</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_MODEL_KEY_GEMINI_FLASH</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Model Key for Gemini</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_MODEL_KEY_GEMINI_VISION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Model Key for Gemini Pro Vision</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_MODEL_KEY_MM_EMBED</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Model Key for Multimodal Embeddings</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_MODEL_KEY_TEXT_EMBED</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Model Key for Text embeddings</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_TEXT_DIMENSION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Output Dimension for text embeddings</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
