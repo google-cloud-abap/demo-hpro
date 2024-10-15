@@ -1,0 +1,20 @@
+Flammable
+Symbol: Flame
+
+What does it mean?
+Extremely flammable gas
+Flammable gas
+Extremely flammable aerosol
+Flammable aerosol
+Highly flammable liquid and vapour
+Flammable liquid and vapour
+Flammable solid
+
+Examples of where we can find it
+Lamp oil, petrol, nail polish remover
+Examples of precautionary statements
+Do not spray on an open flame or other ignition source.
+Keep away from heat/sparks/open flames/hot surfaces – No smoking
+Keep container tightly closed
+Keep cool
+Protect from sunlight

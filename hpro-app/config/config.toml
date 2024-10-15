@@ -1,0 +1,9 @@
+[api]
+base_url = "http://xx.xxx.xxx.xxx"  #  Modify this to SAP system Internal IP Address
+port = 50000 #  Modify this to SAP system port if you are not using ABAP Trail 
+username = "DEVELOPER"  # Replace with your SAP username
+password = "ABAPtr2022#00"  # Replace with your SAP password
+
+get_prompt_api = "/sap/bc/hazmat_service/getPromptRepo"
+get_product_api = "/sap/bc/hazmat_service/getProducts"
+post_prompt_api = "/sap/bc/hazmat_service/processPrompt"

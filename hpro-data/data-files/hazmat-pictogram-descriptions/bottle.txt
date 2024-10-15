@@ -1,0 +1,14 @@
+Gas under pressure
+Symbol: gas cylinder
+
+What does it mean? 
+Contains gas under pressure; may explode if heated.
+Contains refrigerated gas; may cause cryogenic burns or injury.
+
+Examples of where we can find it
+Gas containers
+
+Examples of precautionary statements
+Protect from sunlight
+Wear cold insulating gloves/face shield/eye protection.
+Get immediate medical advice/attention.
