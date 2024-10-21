@@ -13,7 +13,7 @@ The Vertex AI SDK for ABAP is a component built on top of the ABAP SDK for Googl
 
 This guide demonstrates the capabilities of the Vertex AI SDK for ABAP through a prototype application called **HAZMAT Pro**. HAZMAT Pro is an AI-powered solution designed to enhance warehouse safety and efficiency by providing real-time insights and guidance for handling hazardous materials.
 
-![Alt text](images/hpro-gif.gif)
+![Alt text](hpro-guide/images/hpro-gif.gif)
 
 It leverages Google Cloud's Vertex AI and Gemini to offer features such as:
 
@@ -24,7 +24,7 @@ It leverages Google Cloud's Vertex AI and Gemini to offer features such as:
   * Emergency Response Guidance
 
 **Application screencast**
-![Alt text](images/hpro-pitch.png)
+![Alt text](hpro-guide/images/hpro-pitch.png)
 
 **What value will this guide provide?**
 
