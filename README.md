@@ -47,7 +47,7 @@ This guide focuses on an orchestration architecture where ABAP serves as the cen
 
 By following the examples and instructions in this guide, you'll gain hands-on experience with this ABAP-centric orchestration approach, enabling you to build and deploy AI solutions that seamlessly integrate with your SAP environment. Following the architecture that you will enable.
 
-![Alt text](hpro-guide/images/hpro-architecture.png)
+
 
 **Who is this guide for?**
 
