@@ -51,7 +51,7 @@ CLASS lcl_file_uploader IMPLEMENTATION .
         not_supported_by_gui    = 4                " GUI does not support this
         OTHERS                  = 5
     ).
-    IF sy-subrc <> 0 OR lv_rc IS NOT INITIAL.
+    IF sy-subrc <> 0. "OR lv_rc IS NOT INITIAL.
       MESSAGE ID sy-msgid TYPE sy-msgty NUMBER sy-msgno
         WITH sy-msgv1 sy-msgv2 sy-msgv3 sy-msgv4.
     ELSE.
